@@ -1,0 +1,1 @@
+deno run --allow-read ./src/main.ts %1 %2 %3
